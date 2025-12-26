@@ -8,7 +8,7 @@ This project visualizes the "race" between two of the most fundamental pathfindi
 
 Unlike standard visualizers, this tool focuses on the **underlying data structures**. It renders a live, dynamic bar chart of the **Min-Heap (Priority Queue)**, allowing you to see exactly how each algorithm prioritizes which nodes to explore next.
 
-![Demo Screenshot](screenshot.png) **
+![Demo Screenshot](https://github.com/user-attachments/assets/3375004b-0795-413d-b13a-40c209d6658a) **
 
 ## 📦 Installation & Run
 
